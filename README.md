@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/seven/travis-ci-demo.svg?branch=master)](https://travis-ci.org/seven/travis-ci-demo)
+
 This is a beginner tutorial of Travis CI for Node projects.
 
 ## How to use
